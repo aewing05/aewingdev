@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://aewingdev.pages.dev/posts/</loc>
     <lastmod>2024-04-15T08:50:30-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test_post/</loc>
+    <loc>https://aewingdev.pages.dev/posts/test_post/</loc>
     <lastmod>2024-04-15T08:50:30-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://aewingdev.pages.dev/</loc>
     <lastmod>2024-04-11T20:37:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://aewingdev.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://aewingdev.pages.dev/tags/</loc>
   </url>
 </urlset>
